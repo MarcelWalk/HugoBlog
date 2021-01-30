@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://nyasaki.dev"
 title   = "Marcel Walk"
 languageCode = "en-us"
 theme = "hello-friend-ng"

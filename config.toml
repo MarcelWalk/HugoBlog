@@ -56,7 +56,7 @@ disableHugoGeneratorInject = false
   # Metadata mostly used in document's head
   # 
   description = "Software Developer from Styria, Austria"
-  keywords = ""
+  keywords = "C#,Software Developer, Software Entwicker, Software Developer C#, Software Entwicker C#, Styria, Steiermark, Graz, Leoben, Marcel, Nyasaki, Marcel Walk"
   images = [""]
 
   homeSubtitle = "Software Developer from Styria, Austria"
@@ -135,19 +135,19 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:walk.marcel@nyasaki.dev"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/MarcelWalk"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/marcel-walk/"
 
   [[params.social]]
     name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    url  = "https://stackoverflow.com/users/12931021/marcel-walk"
 
 [languages]
   [languages.en]

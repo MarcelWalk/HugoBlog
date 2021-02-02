@@ -1,12 +1,12 @@
 ---
 author:
-  name: "Michael Henderson"
+  name: "Marcel Walk"
 date: 2021-01-30
 linktitle: My first entry
 type:
 - post
 - posts
-title: My first entry
+title: My First Entry / My Story
 weight: 10
 series:
 - Personal
@@ -16,7 +16,7 @@ series:
 
 This is the first post of hopefully many, I'm writing this blog for many reasons.
 The most important is to practice my writing and communication skills, as I'm not
-really feeling that comfortable in writing and commucating.
+really feeling that comfortable in writing and communicating.
 
 Another reason is to share my knowlege, experiences and findings with you,
 maybe I'll finish something for once, and honestly because I like to try new things!

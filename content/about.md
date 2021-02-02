@@ -1,19 +1,21 @@
 +++
 title = "About"
-date = "2014-04-09"
-aliases = ["about-us","about-hugo","contact"]
+date = "2021-02-02"
+aliases = ["about-me","contact"]
 [ author ]
-  name = "Hugo Authors"
+  name = "Marcel Walk"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+## Intro
+My name is Marcel Walk, im a passionate developer from Leoben, Austria.
+I was born in 1997 in Germany and move in 2018 to Austria.
+I've been programming since 2011 and I still LOVE to learn new stuff
 
-It makes use of a variety of open source projects including:
+## Career
+In 2010 I started teaching myself Java 3 years later I started learning C#.
+From 2013 - 2016 I've done a apprenticeship as injectionmolding technician in Speyer, Germany.
+From 2018 - 2020 I've worked for a PCB company as a software developer in Leoben, Austria.
+Since 2021 Im working for a software development company in Graz, Austria.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Contact Me
+E-Mail: walk.marcel@nyasaki.dev

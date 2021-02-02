@@ -13,15 +13,15 @@ series:
 ---
 
 ## Intro
-I was exited that the Blue Yeti arrived in mail yesterday.
+I was excited that the Blue Yeti arrived in mail yesterday.
 Because I am planning to stream programming and gaming I was looking for a proper microphone.
 If you are interested in my stream you can head over to my [twitch channel](https://www.twitch.tv/marcelwalk).
-So I got the Blue Yeti and on Friday the [Elgato Wave 1](https://www.elgato.com/de/wave-1) will arrive too so you I will write a short review on that too in the upcoming days!
+So I got the Blue Yeti and on Friday the [Elgato Wave 1](https://www.elgato.com/de/wave-1) will arrive too. So I will write a short review on that too in the upcoming days!
 
 ## Built Quality & Optics
-Its very heavy due to its 50s-style metal frame and the very solid metal base.
+It's very heavy due to its 50s-style metal frame and the very solid metal base.
 The matte black color looks really nice, there are no sharp edges around the mic it is all very smooth.
-The due to the heavieness and the foam on the bottom of the base the mic isn't moving around even on my slippery deskmat
+The due to the heavieness and the foam on the bottom of the base the mic isn't moving around even on my slippery deskmat.
 
 ## Price
 I bought the Blue Yeti for around 135 Euros, which is prtty reasonable for the quality you get.

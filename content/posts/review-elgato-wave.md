@@ -1,13 +1,15 @@
 ---
+title: Elgato Wave:1 - Should You Buy It?
+description: 
+  Since I have tested the Yeti microphone from Blue and wasn't really satisfied with the results, 
+  I was very curious if the Wave 1 could deliver better results. And let me tell you it did!
+date: 2021-02-02
 author:
   name: "Marcel Walk"
-date: 2021-02-02
 linktitle: review elgato wave
 type:
 - post
 - posts
-title: Elgato Wave:1 - Should You Buy It?
-weight: 10
 tags:
 - Gear
 ---

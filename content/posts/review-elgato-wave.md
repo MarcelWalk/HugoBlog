@@ -8,7 +8,7 @@ type:
 - posts
 title: Review - Elgato Wave 1
 weight: 10
-series:
+tags:
 - Gear
 ---
 

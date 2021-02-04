@@ -8,7 +8,7 @@ type:
 - posts
 title: Review - Blue Yeti
 weight: 10
-series:
+tags:
 - Gear
 ---
 

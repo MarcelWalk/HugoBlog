@@ -1,13 +1,13 @@
 ---
+title: Blue Yeti - Why I Will Return It
+description: This is a test
+date: 2021-02-02
 author:
   name: "Marcel Walk"
-date: 2021-02-02
 linktitle: review blue yeti
 type:
 - post
 - posts
-title: Blue Yeti - Why I Will Return It
-weight: 10
 tags:
 - Gear
 ---

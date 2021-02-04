@@ -33,6 +33,6 @@ The mode selection dial is on the back of the mic so, if you have to switch mode
 
 ## Why I will return it
 Dont't get me wrong here, the Blue Yeti is a really outstanding mic both in its build quality and the recording quality
-but I have issues with my empty flat where the echo is pretty noticale during my test streams where my headset mic performes a lot better.
+but I have issues with my empty flat where the ecsho is pretty noticale during my test streams where my headset mic performes a lot better.
 Also the Elgato Wave Link software, which I already took a look at, for the previously mentioned Elgato Wave 1 is more fitting for me.
 If you want to know why, wait for my Wave 1 review!

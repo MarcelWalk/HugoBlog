@@ -34,7 +34,7 @@ disable404     = false
 disableHugoGeneratorInject = false
 
 [permalinks]
-  posts = "/posts/:year/:month/:title/:series/"
+  posts = "/posts/:year/:month/:title/:series"
 
 [author]
   name = "Marcel Walk"

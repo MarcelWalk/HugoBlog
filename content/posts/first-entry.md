@@ -8,7 +8,7 @@ type:
 - posts
 title: My First Entry / My Story
 weight: 10
-series:
+tags:
 - Personal
 ---
 
